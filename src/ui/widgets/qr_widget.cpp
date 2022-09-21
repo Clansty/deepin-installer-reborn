@@ -20,6 +20,7 @@
 #include <QDebug>
 #include <QPaintEvent>
 #include <QPainter>
+#include <QPainterPath>
 
 #include "third_party/qrencode/qrencode.h"
 
